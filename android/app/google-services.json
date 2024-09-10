@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359059683345",
+    "project_id": "myshoppingapp-46942",
+    "storage_bucket": "myshoppingapp-46942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359059683345:android:ba606731c967fa3df199b0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_white2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PKplPbwHCxz4ZbzrmLQz5n2I4QZzvi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

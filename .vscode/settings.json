@@ -1,0 +1,5 @@
+{
+    "emulator.androidColdBoot": true,
+    "dart.flutterAdbConnectOnChromeOs": true,
+    "dart.flutterRunLogFile": null
+}
